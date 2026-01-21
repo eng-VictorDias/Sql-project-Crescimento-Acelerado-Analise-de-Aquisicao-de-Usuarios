@@ -142,7 +142,7 @@ Gap de Dados: Há um período de "platô" ou baixa atividade entre o final de ja
 
 ## Visualize o dashboard
 
-
+![Análise de aquisição de usuários](https://github.com/eng-VictorDias/Sql-project-Crescimento-Acelerado-Analise-de-Aquisicao-de-Usuarios/blob/main/Dashboard.png)
 
 
 
